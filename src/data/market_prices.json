@@ -1,4 +1,79 @@
 {
-  "last_updated": "2026-03-30T04:45:39.539297",
-  "prices": {}
+  "last_updated": "2026-03-31 02:28:54",
+  "categories": {
+    "Rice": {
+      "ponni_rice": {
+        "market_price": 1350.0,
+        "name_en": "Ponni Rice"
+      },
+      "basmati_rice": {
+        "market_price": 180.0,
+        "name_en": "Basmati Rice"
+      },
+      "wheat_flour": {
+        "market_price": 280.0,
+        "name_en": "Wheat Flour (Atta)"
+      }
+    },
+    "Oils": {
+      "sunflower_oil": {
+        "market_price": 145.0,
+        "name_en": "Sunflower Oil"
+      },
+      "gingelly_oil": {
+        "market_price": 320.0,
+        "name_en": "Gingelly Oil"
+      },
+      "groundnut_oil": {
+        "market_price": 190.0,
+        "name_en": "Groundnut Oil"
+      }
+    },
+    "Dals": {
+      "toor_dal": {
+        "market_price": 165.0,
+        "name_en": "Toor Dal"
+      },
+      "moong_dal": {
+        "market_price": 120.0,
+        "name_en": "Moong Dal"
+      },
+      "urad_dal": {
+        "market_price": 150.0,
+        "name_en": "Urad Dal"
+      }
+    },
+    "Spices": {
+      "chilli_powder": {
+        "market_price": 45.0,
+        "name_en": "Chilli Powder"
+      },
+      "turmeric_powder": {
+        "market_price": 35.0,
+        "name_en": "Turmeric Powder"
+      },
+      "pepper": {
+        "market_price": 95.0,
+        "name_en": "Black Pepper"
+      }
+    },
+    "Household": {
+      "tea_powder": {
+        "market_price": 160.0,
+        "name_en": "3 Roses Tea"
+      },
+      "coffee_powder": {
+        "market_price": 85.0,
+        "name_en": "Bru Coffee"
+      },
+      "bath_soap": {
+        "market_price": 35.0,
+        "name_en": "Hamam Soap"
+      },
+      "detergent": {
+        "market_price": 140.0,
+        "name_en": "Surf Excel"
+      }
+    }
+  }
 }
