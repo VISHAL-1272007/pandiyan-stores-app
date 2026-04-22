@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21 02:38:40",
+  "last_updated": "2026-04-22 02:37:16",
   "categories": {
     "Rice": {
       "ponni_rice": {
@@ -53,7 +53,7 @@
         "name_en": "Turmeric Powder"
       },
       "pepper": {
-        "market_price": 95.0,
+        "market_price": 175.0,
         "name_en": "Black Pepper"
       }
     },
